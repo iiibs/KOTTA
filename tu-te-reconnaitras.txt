@@ -1,0 +1,58 @@
+Tu te reconnaîtras
+Capo #1
+C major
+3/4
+BPM=67
+
+Prelude
+  F             G                  F             A                  Dm           F             G           A     
+  lo. |  lo. |  lo. |  l   l  l |  lo. |  lo. |  lo z |  l  l  l |  lo. | lo. |  lo z | lo. |  lo. | lo. | lo. | 
+  A      A      G      A#  A  G    F      F      E       G  F  E    D     D      F      F      G     G     A     
+ La     la     la     la  la la   la     la     la      la la la   la-    a     la-     a     la-    a-    a.    
+
+Verse
+                   Dm                        A                           Dm                                      A     
+ z z p  :    :  |  lo.  | z z p  :   :    |  lo.    | z z p  :     :  |  lo    p  :   :  |  lo    p  :    :   |  lo. | 
+        D    E     F             E   D       E               D     E     F        E   E     F        E    D      E     
+       Dans les   rêves         de l'en-    fance,          dans l'é-   lève     que le    maître    a   pu-    ni.    
+       Dans les   rêves         de l'ar-    tiste,          que   la    gloire   n'a ja-   mais     cou- ron-   né     
+
+                   Dm         A7         A                          Dm                   A                 Dm         
+ z z p  :    :  |  l.   p z | lo  l   |  lo   l  | z z p  :   :  |  l.   p p  :   :   |  l.  p p  :   :  |  l.  p z | 
+        D    E     F          G   F      E    E           D   E     F         E   D      E        D   C#    D         
+       Dans la    gare        où com-   men- ce          la pre-   mière      a- ven-   ture     de  la    vie.       
+       'ans ce    monde       é- go-     ïs- te,         qui re-   nie       ce  qu'il   a'       a- do-   ré         
+
+                       C               F                           C                A                             
+ z z z | z z p  .   |  l    l    l  |  lo. |  lo.  | z z p  .   |  l    l    l  |   lo.  | lo. | lo. | l.   p z | 
+                E      E    F    G     F      F             E      E    F    G      A      A     A     A          
+               Dans   ce-  lui  qui   dou-   te,           dans   ce-  lui  qui   croi-    oi-   oi-   oit.       
+               Dans   ceux qui   o-    ont   peur,         dans   ceux qui  ont   froi-    oi-   oi-   oid.       
+
+Refrain
+  F              G                  F              A         G                G             Dm              Dm          Dm              Dm         A            C                
+  lo. |  lo. |  lo. |  l   l  l  |  lo. |  lo. |   l.  p z | l   l    l   |   l  l  l    |  l     l   l  |  l.   p z |  l     l   l  |  .  .  lo | l  l  l   |  l  z z | z z z | 
+  A      A      G      A#  A  G     F      F       E         G   F    E       F  E  D       D     E   G     F           D     E   G     F  E  D    D  E  F      G                
+ Tu     ver-   ras,   tu  te re-   con-   naî-   tras.       À chaque in-   sta- a- ant,   dans cha- que   joie,       Dans cha- que   la- a- a-   a- a- ar-   me.               
+
+  F             G                   F              A          G              G             Dm            Dm          A              A                                 
+  lo. |  lo. |  lo. |  l   l  l  |  lo. |  lo. |   l.  p z |  l    l  l   |  l  l  l    |  l    l  l  |  l.   p z |  l    l    l |  l   l   l   | lo. | lo. | z z z | 
+  A      A      G      A#  A  G     F      F       E          G    F  E      F  E  D       D    E  G     F           E    F    G    F   E   D     D     E             
+ Tu     ver-   ras,   tu  te re-   con-   naî-   tras.       Dans cet en-   fa- a- ant,   par- mi ces   gens,       Tous com- me   toi- oi- oi-   oi-   oi.           
+
+Interlude
+  Dm         A                                                                            
+  l  l  l |  l  l  l |  lo l | lo .  :  : |  l  l  l |  lo  l |  l  l  l |  lo. | z z z | 
+  D  E  F    E  F  G    A  G   A  G  A  G    F  E  F    G   F    G  F  G    A             
+ La la la   la la la   la la  la la la la   la la la   la  la   la la la   la             
+
+Postlude
+  F              G      G            F             A           G             G       Dm              Dm     Dm              Dm          F          
+  lo. |  lo.  |  lo. |  l   l  l  |  lo. |  lo. |  l.   p z |  l    l  l   | lo.  |  l    l   l   |  lo. |  l     l  l   |  l  l  l   | l  l  l  | 
+  A      A       G      A#  A  G     F      F      E           G    F  E     D       E    F   G      F      E     F  G      F  E  D     D  D  D    
+ Tu     ver-    ras,   tu  te re-   con-   naî-   tras,       dans cet a-   mour,   que j'ai pour   toi,    oui, tu ver-   ra- a- a-    a- a- as,  
+
+             G               A                                                       
+  z  l  l |  l   l    l   |   lo. | lo. | lo. | lo. | lo. | lo. | lo. | lo. | lo.  | 
+     G  F    G   F    G       A     A     A     A     A     A     A     A     A      
+    tu te   re- con- naî-   tra-    a-    a-    a-    a-    a-    a-    a-    as.    

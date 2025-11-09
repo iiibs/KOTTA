@@ -1,6 +1,6 @@
 # KOTTA
 
- A program that converts text file to music sheet.
+ A program that converts a text file to music sheet.
   - KOTTA.py - program code that uses
     - text input file - with the sections, lines, chords, durations, notes, lyrics of a song
       input_structure_BNF.txt - BNF format for the text input

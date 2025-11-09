@@ -1,0 +1,19 @@
+BNF
+---
+<song-file>      ::= <title-line> <capo-line> <bpm-line> <empty-line> <section-list>
+<title-line>     ::= <text> <newline>
+<capo-line>      ::= <text> <newline>
+<bpm-line>       ::= <text> <newline>
+<empty-line>     ::= <newline>
+<section-list>   ::= <section> <section-list> | <section>
+<section>        ::= <section-header> <song-line-list>
+<section-header> ::= <text> <newline>
+<song-line-list> ::= <song-line> <song-line-list> | <song-line>
+<song-line>      ::= <chords-line> <durations-line> <notes-line> <lyrics-list>
+<chords-line>    ::= <text> <newline>
+<durations-line> ::= <text> <newline>
+<notes-line>     ::= <text> <newline>
+<lyrics-list>    ::= <lyrics-line> <lyrics-list> | <lyrics-line>
+<lyrics-line>    ::= <text> <newline>
+<text> ::= <any printable characters except newline>
+<newline> ::= "\n"
